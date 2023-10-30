@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "prompt-sync": "^4.2.0",
+    "selenium-webdriver": "^4.7.1",
+    "write-excel-file": "^1.4.19"
+  }
+}
